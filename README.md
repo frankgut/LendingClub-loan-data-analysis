@@ -8,7 +8,7 @@ In this project, I used publicly available data (2007-2011) from the LendingClub
 
 
 - Visualize the dataset to help understand the features that could affect a borrower's loan status
-- Prepare the data by cleanning, handeling missing data, feature selection and converting categorical features etc.
+- Prepare the data by cleaning, handling missing data, feature selection and converting categorical features etc.
 - Address a possible data leakage problem within the dataset and its impact on the feature selection process
 - Build models of Ensemble (AdaBoost, GradientBoosting, ExtraTrees, RandomForest), Logistic Regression, Naive Bayes, K Nearest Neighbors, Support Vector Machine, Decision Tree and Multilayer Perceptron to predict whether a borrower would pay back a loan or not
 - Tune the hyperparameters for a set of selected models based on their cross-validation scores
