@@ -1,6 +1,6 @@
 # LendingClub Loan Data Analysis
 
-**Make sure you check out the fully rendered jupyter notebook with all the outputs and interactive plots. Use the link below. Notebook itself without outputs can be found within this repository.**
+**Make sure you check out the fully rendered jupyter notebook with all the outputs and interactive plots. Use the link below or paste the github url of the .html file to your favorite jupyter notebook render. Notebook itself without outputs can be found within this repository.**
 
 [Fully rendered notebook](https://nbviewer.jupyter.org/github/frankgut/LendingClub-loan-data-analysis/blob/master/Lending-club-loan-data-analysis.html)
 
